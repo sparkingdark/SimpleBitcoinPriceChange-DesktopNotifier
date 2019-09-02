@@ -29,7 +29,7 @@ def log(time, rate):
 
 # Var
 previous = {
-    'time' : '',
+    'time' : ''
 }
 
 while True:
